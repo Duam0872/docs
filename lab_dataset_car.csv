@@ -7,7 +7,7 @@ vhigh,vhigh,2,2,med,med,unacc
 vhigh,vhigh,2,2,med,high,unacc
 vhigh,vhigh,2,2,big,low,unacc
 vhigh,vhigh,2,2,big,low,unacc
-vhigh,vhigh,2,2,big,high,unacc
+vhigh,vhigh,2,2,big,low,unacc
 vhigh,vhigh,2,4,small,low,unacc
 vhigh,vhigh,2,4,small,med,unacc
 vhigh,vhigh,2,4,small,med,unacc
@@ -308,7 +308,7 @@ vhigh,med,5more,2,med,low,unacc
 vhigh,med,5more,2,med,med,unacc
 vhigh,med,5more,2,big,low,unacc
 vhigh,med,5more,2,big,med,unacc
-vhigh,med,5more,2,big,high,unacc
+vhigh,med,5more,2,big,med,unacc
 vhigh,med,5more,4,small,low,unacc
 vhigh,med,5more,4,small,med,unacc
 vhigh,med,5more,4,small,high,acc
